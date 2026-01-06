@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Shirshansh Mishra!
 
 🎓 I’m a 4th-year B.Tech student majoring in Computer Science & Engineering.  
-💻 I'm into Software Development and Deployment right now.
+💻 I'm into Software Development and Deployment right now.  
 🔥 Dharma: To learn and grow.
 
 ## 💼 Tech Stack
